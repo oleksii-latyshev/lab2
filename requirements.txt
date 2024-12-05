@@ -1,0 +1,6 @@
+matplotlib==3.7.1
+numpy>=1.26.0
+pandas==2.0.3
+scikit-fuzzy==0.5.0
+pillow==10.1.0
+opencv-python==4.10.0.84
